@@ -1,14 +1,7 @@
 import java.util.Scanner;
 class Practice
 {
-	/* 
-	wap to the count netsalary for acourding to the basic salary provoided by  User
-		har 5% Basic/
-		da  7% Basic/
-		if 10k <= 10%
-		15k-20k <=20%
-		20k pf <=18%
-	*/
+	
 	public static void main(String args[])
 	{	int netsalary ,hra,da ,fp;
 		Scanner sc=new Scanner(System.in);
